@@ -1,4 +1,4 @@
-cmsrel CMSSW_10_2_9 
+cmsrel CMSSW_10_2_9
 cd CMSSW_10_2_9/src
 cmsenv
 
